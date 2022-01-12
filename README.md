@@ -1,7 +1,12 @@
 ## 👋 Hi, I’m **Manu George**,
 Its my **GitHub** Repo You can find things soon here. 
     
-<img src="red.jpg" width="100">
+<img src="red.jpg" width="100"><img src="linux.jpg" width="100"><img src="aws.png" width="100"><img src="mysql.jpg" width="100"><img src="nginx.png" width="90">
+
+
+
+
+
 
 <!---
 ManuGit1996/ManuGit1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
