@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m **Manu George**,
 Its my **GitHub** Repo You can find things soon here. 
     
-<img src="aws.png" width="100"><img src="red.jpg" width="100"><img src="linux.jpg" width="100"><img src="mysql.jpg" width="100"><img src="nginx.png" width="90"><img src="salt.png" width="100">
+<img src="aws.png" width="100"><img src="red.jpg" width="100"><img src="linux.jpg" width="100"><img src="mysql.jpg" width="100"><img src="nginx.png" width="90"><img src="salt.png" width="190">
 
 
 
