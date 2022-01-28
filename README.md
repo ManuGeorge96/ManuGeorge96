@@ -1,4 +1,4 @@
-## 👋 Hi, I’m **Manu George**,
+### 👋 Hi, I’m Manu George,
 Its my **GitHub** Repo You can find things soon here. 
 
 ### Known Areas:
@@ -10,11 +10,10 @@ Its my **GitHub** Repo You can find things soon here.
 [<img align="left" alt="Unix" width="100px" src="https://raw.githubusercontent.com/ManuGit1996/ManuGit1996/master/Tools/download.png" />]
 [<img align="left" alt="Unix" width="150px" src="https://raw.githubusercontent.com/ManuGit1996/ManuGit1996/master/Tools/salt.png" />]
 
-
 <br />
 
-
 ### Connect With Me:
+
 
 [<img align="left" alt="Unix" width="80" src="https://raw.githubusercontent.com/ManuGit1996/ManuGit1996/master/Tools/wp.jpg" />][wp]
 [<img align="left" alt="Unix" width="70" src="https://raw.githubusercontent.com/ManuGit1996/ManuGit1996/master/Tools/ln.jpg" />][ln]
