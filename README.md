@@ -3,13 +3,10 @@ Its my **GitHub** Repo You can find things soon here.
 
 ### Known Areas:
 
-[<img align="left" alt="Unix" width="100px" src="https://raw.githubusercontent.com/ManuGit1996/ManuGit1996/master/Tools/aws.png" />]
-[<img align="left" alt="Unix" width="100px" src="https://raw.githubusercontent.com/ManuGit1996/ManuGit1996/master/Tools/red.jpg" />]
-[<img align="left" alt="Unix" width="100px" src="https://raw.githubusercontent.com/ManuGit1996/ManuGit1996/master/Tools/linux.jpg" />]
-[<img align="left" alt="Unix" width="100px" src="https://raw.githubusercontent.com/ManuGit1996/ManuGit1996/master/Tools/mysql.jpg" />]
-[<img align="left" alt="Unix" width="100px" src="https://raw.githubusercontent.com/ManuGit1996/ManuGit1996/master/Tools/download.png" />]
-[<img align="left" alt="Unix" width="150px" src="https://raw.githubusercontent.com/ManuGit1996/ManuGit1996/master/Tools/salt.png" />]
+[<img align="left" alt="Unix" width="120px" src="https://raw.githubusercontent.com/ManuGit1996/ManuGit1996/master/Tools/aws.png" />]
 
+
+<br/>
 <br/>
 
 ### Connect With Me:
