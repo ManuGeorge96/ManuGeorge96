@@ -13,7 +13,7 @@ Its my **GitHub** Repo You can find things soon here.
 <br />
 
 ### Connect With Me:
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/ManuGit1996/ManuGit1996/master/Tools_icons/wp" />][wp]
+[<img align="left" alt="Unix" width="150"src="https://raw.githubusercontent.com/ManuGit1996/ManuGit1996/master/Tools_icons/" />][wp]
 
 
 
