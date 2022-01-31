@@ -5,11 +5,11 @@ Its my **GitHub** Repo You can find things soon here.
 
 <br />
 
-[<img align="left" alt="Unix" width="80" src="https://raw.githubusercontent.com/ManuGeorge96/ManuGeorge96/master/Tools/aws.png" />][ln]
-[<img align="left" alt="Unix" width="80" src="https://raw.githubusercontent.com/ManuGeorge96/ManuGeorge96/master/Tools/red.jpg" />][ln]
-[<img align="left" alt="Unix" width="80" src="https://raw.githubusercontent.com/ManuGeorge96/ManuGeorge96/master/Tools/linux.jpg" />][ln]
-[<img align="left" alt="Unix" width="80" src="https://raw.githubusercontent.com/ManuGeorge96/ManuGeorge96/master/Tools/mysql.jpg" />][ln]
-[<img align="left" alt="Unix" width="80" src="https://raw.githubusercontent.com/ManuGeorge96/ManuGeorge96/master/Tools/download.png" />][ln]
+[<img align="left" alt="Unix" width="100" src="https://raw.githubusercontent.com/ManuGeorge96/ManuGeorge96/master/Tools/aws.png" />][ln]
+[<img align="left" alt="Unix" width="100" src="https://raw.githubusercontent.com/ManuGeorge96/ManuGeorge96/master/Tools/red.jpg" />][ln]
+[<img align="left" alt="Unix" width="100" src="https://raw.githubusercontent.com/ManuGeorge96/ManuGeorge96/master/Tools/linux.jpg" />][ln]
+[<img align="left" alt="Unix" width="100" src="https://raw.githubusercontent.com/ManuGeorge96/ManuGeorge96/master/Tools/mysql.jpg" />][ln]
+[<img align="left" alt="Unix" width="100" src="https://raw.githubusercontent.com/ManuGeorge96/ManuGeorge96/master/Tools/download.png" />][ln]
 [<img align="left" alt="Unix" width="120" src="https://raw.githubusercontent.com/ManuGeorge96/ManuGeorge96/master/Tools/salt.png" />][ln]
 
 
