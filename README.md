@@ -1,6 +1,5 @@
 ### 👋 Hi, I’m Manu George,
-Its my **GitHub** Repo You can find things soon here. 
-
+I'm a cloud engineer passionate on Automation, and configuration, you can find some of my works that I have done on this repo.
 ### Known Areas:
 
 <br />
