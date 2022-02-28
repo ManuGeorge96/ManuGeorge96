@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Manu George,
-I'm a cloud engineer passionate on Automation, and configuration, you can find some of my works that I have done on this repo.
+I'm a cloud engineer passionate on Automation, and configuration, you can find some of my works that I have done, on this repo.
 ### Known Areas:
 
 <br />
